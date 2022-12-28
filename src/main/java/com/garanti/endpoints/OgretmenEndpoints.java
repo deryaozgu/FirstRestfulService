@@ -55,4 +55,5 @@ public class OgretmenEndpoints
     }
 
     // localhost:9090/FirstRestfulService/ogretmen/deleteById
+    //deneme
 }
